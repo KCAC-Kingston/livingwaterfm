@@ -1,10 +1,10 @@
 title: Living Water 活水FM
 description: You'll hear me talk about amazing things!
-author: Brought to you by Living Water Fellowship
-email: kcackingston@gmail.com
+author: Living Water Fellowship at KCAC
+email: LivingWater.QU@gmail.com
 lang: en-us
 copyright: Kingston Chinese Alliance Church, All right reserved
-logo: /assets/img/kcacLogo.png
+logo: /assets/img/lvfm.jpg
 
 exclude:
   - Gemfile

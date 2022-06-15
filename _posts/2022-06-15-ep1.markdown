@@ -1,0 +1,16 @@
+---
+title:        "活水fm.vol.01 我们向往的生活！"
+date:         2022-06-15 11:29:02 +0800
+keywords:
+- 基督教
+- 活水
+mp3-url:      "/assets/audio/ep1.mp3"
+episode-type: full # or "full"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+向往的生活作为现在最受欢迎的慢生活综艺之一，借着回归本真，打鱼种菜这样的生活吸引了大众的目光，激起大家对于慢节奏生活的向往。
+
+在圣经中，有许多关于“工作”的描述，还有关于“创造”的含义。为什么这么多人会向往这样的生活，我们所生存的环境又是如何被创造，这些问题都将在这一期被解答，让我们一起重新思考，保持思考，一起探索上帝的创造和工作。
