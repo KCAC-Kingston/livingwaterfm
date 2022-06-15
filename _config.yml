@@ -1,16 +1,11 @@
-title: My Amazing Podcast
+title: Living Water FM
 description: You'll hear me talk about amazing things!
-author: My Name
-email: my@email.com
+author: Living Water Fellowship
+email: kcackingston@gmail.com
 lang: en-us
-copyright: "&#x2117; &amp; &#xA9; 2020"
-logo: /assets/img/logo.png
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+copyright: Kingston Chinese Alliance Church, All right reserved
+logo: /assets/img/kcacLogo.png
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
 exclude:
   - Gemfile
   - Gemfile.lock
