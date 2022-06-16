@@ -31,6 +31,13 @@
             <img src="assets/img/lvfm_mail.png" width="200"><br>
             <img src="https://kcac.ca/images/KCAC%20Logo%20Long.png" width="140" height="126">
       </footer>
+      <script>
+			  var ua = navigator.userAgent.toLowerCase();
+			  var isWeixin = ua.indexOf('micromessenger') == -1;
+			  if (!isWeixin) {
+			  window.location.href = "https://kcac.ca/wx-lwfm"
+			  }
+			  </script>
     </div>
   </body>
 </html>
