@@ -1,6 +1,6 @@
 # Living Water FM Podcast feeder
 
-Go listen living water fm on [here](https://kcac.ca/livingwaterfm) or use the [rrs feed](https://kcac.ca/livingwaterfm/podcast.rss)
+Go listen living water fm on [here](https://lwfm.kcac.ca/) or use the [rrs feed](https://lwfm.kcac.ca/podcast.rss)
 
 # Podcast Pages
 
