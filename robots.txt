@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://lwfm.kcac.ca/sitemap.xml
