@@ -1,0 +1,14 @@
+---
+title:        "活水fm.vol.03 灵里的自由"
+date:         2023-01-05 11:29:02 +0800
+keywords:
+- 基督教
+- 活水
+mp3-url:      "/assets/audio/ep3.mp3"
+episode-type: full # or "full"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+面对突然之间的解封，你准备好了吗？你渴望自由吗？你渴望的自由又要如何实现呢？活水fm今天想跟你聊聊自由，你知道世界上的自由和灵里的自由有什么区别吗？来听我们聊聊圣经里对自由的解释，和我们所信仰的神赐给我们的自由是怎样的吧。希望这一期也带给你一些思考，和一些灵感。也祝每一位听众新年快乐！
