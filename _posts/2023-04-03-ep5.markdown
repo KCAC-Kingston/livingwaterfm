@@ -1,0 +1,17 @@
+---
+title:        "活水fm.vol.05 神对祷告的回应"
+date:         2023-04-3 11:29:02 +0800
+keywords:
+- 基督教
+- 活水
+mp3-url:      "/assets/audio/ep5.mp3"
+episode-type: full # or "full"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+神的回应不全是喜乐和恩典，管教和训戒也是回应的一种。神是要对付世上的罪，不仅仅是个人即时的问题。神对祷告的回应，让人更加认识祂，更加认识自己。
+
+忍耐，顺服，盼望，信靠，求神怜悯，愿神彰显
+让我们一起空中相遇，和LivingWater一起在主里成长！
