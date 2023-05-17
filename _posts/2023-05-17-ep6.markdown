@@ -1,0 +1,16 @@
+---
+title:        "活水fm.vol.06 我和我要事奉的祂"
+date:         2023-05-17 11:29:02 +0800
+keywords:
+- 基督教
+- 活水
+mp3-url:      "/assets/audio/ep6.mp3"
+episode-type: full # or "full"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+震惊！！！两位过期团长在fm聊到这些事？！服侍的心得、其中的困难和感受……以及重新立定心志后，眼目需要再次并持续定睛于上帝的鼓励。
+
+我们与上帝的关係是我们在服侍道路上稳步前进的基础，让我们像祂一样带领团契；像祂一样祷告；像祂一样关怀，与祂同工，更贴近祂的心意！
