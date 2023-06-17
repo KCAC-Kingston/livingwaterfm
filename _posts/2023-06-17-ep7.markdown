@@ -1,0 +1,25 @@
+---
+title:        "活水fm.vol.07 苦难中的喜乐"
+date:         2023-06-17 11:29:02 +0800
+keywords:
+- 基督教
+- 活水
+mp3-url:      "/assets/audio/ep7.mp3"
+episode-type: full # or "full"
+explicit:     "no"
+block:        "no" # no means it is published
+layout: podcast
+excerpt_separator: <!--more-->
+---
+Hello大家好，很感恩活水FM的第7期也终于和大家见面啦~ 
+神赐给人的喜乐是无与伦比的一份礼物 
+作为祂的百姓 
+”喜乐“并不只是快乐的心情或好情绪 
+而更是一种选择 
+我们相不相信神会实现祂的应许 
+诚然在患难与黑暗中 
+清心等候不是一件容易的事 
+但我们相信主做事有定时 
+流泪撒种必欢呼收割 
+主耶稣会陪我们走过死荫幽谷 
+最终来到可安歇的溪水旁
